@@ -95,7 +95,7 @@ li{
     font-size: 32px;
   
 }
-@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
 #team {
     background: #eee !important;
    
@@ -339,15 +339,6 @@ background: linear-gradient(0deg, rgba(136,198,255,1) 10%, rgba(0,102,255,1) 100
     
   }
   
-  
-
-
-
-
-
-
-
-
 .copyright {
     border-top: 1px solid #111;
     font-size: 14px;
@@ -473,19 +464,17 @@ footer{
     color: #ffffff;
     cursor: pointer;
 }
-.btnContactSubmit
-{
-    width: 50%;
-    border-radius: 1rem;
-    padding: 1.5%;
-    color: #fff;
-    background-color: #0062cc;
-    border: none;
-    cursor: pointer;
-}
 
-.btnContact:hover{
-    background-color: white;
-    border: 2px solid #007bff;
-    color: #007bff;
+
+.contact-div{
+    margin: 0 auto;
+    border: 1px solid rgb(207, 207, 207);
+    
+    height: 150px;
+    border-radius: 25px;
+    margin-top: 50px;
+    margin-left: 0 auto;
+    margin-bottom: 20px;
+    padding: 20px;
 }
+   
