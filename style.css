@@ -290,25 +290,6 @@ section .section-title {
   }
 
 
-.countdiv{
-    float: left;
-    font-family: 'poppins';
-    font-size: 30px;
-    color: rgb(0, 56, 139);
-    opacity: 80%;
-    
-}
-.counttext{
-    float: left;
-    margin-left: 50px;
-    text-align-last: center;
-    margin-top: 20px;
-    font-family: 'poppins';
-}
-#counter{
-    height: 200px;
-}
-
 body {
     background: #f4f4f4;
   }
